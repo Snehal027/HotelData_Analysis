@@ -1,50 +1,56 @@
-🏨 Hotel Booking Data Analysis
-📌 Overview
+# 🏨 Hotel Booking Data Analysis
 
-This project analyzes hotel booking data to uncover insights on booking trends, cancellations, revenue generation, and customer behavior. The goal is to help hotel management make data-driven decisions to improve occupancy and profitability.
+## 📖 Project Overview
+This project analyzes hotel booking data to uncover insights related to booking trends, cancellation patterns, revenue generation, and customer behavior.  
 
-🛠 Tools Used
+The objective is to help hotel management make **data-driven decisions** to improve occupancy, reduce cancellations, and maximize profitability.
 
-Python (Pandas, NumPy, Matplotlib)
+---
 
-SQL
+## 🎯 Business Objective
+- Analyze booking trends and seasonality  
+- Identify key factors affecting cancellations  
+- Evaluate revenue performance (ADR & segments)  
+- Compare City Hotel vs Resort Hotel performance  
 
-Power BI
+---
 
-Excel
+## 🛠️ Tools & Technologies
+- 📊 Power BI
+- 📑 Excel
 
-🔍 Key Analysis
+---
 
-Booking trends & seasonal demand
+## 📊 Key Analysis Performed
+- Booking trend analysis (monthly & seasonal)
+- Cancellation rate evaluation
+- Average Daily Rate (ADR) analysis
+- Market segment & customer distribution study
+- Hotel type comparison (City vs Resort)
 
-Cancellation rate analysis
+---
 
-Revenue & Average Daily Rate (ADR) analysis
+## 🔍 Key Insights
+- 📌 City Hotels had higher bookings but also higher cancellations  
+- 📌 Longer lead times increased cancellation probability  
+- 📌 Resort Hotels generated higher ADR during peak seasons  
+- 📌 Seasonality significantly impacted occupancy and pricing  
 
-Hotel type comparison (City vs Resort)
+---
 
-Market segment & customer behavior insights
+## 💡 Business Recommendations
+- Implement dynamic pricing strategies  
+- Encourage non-refundable bookings  
+- Focus on high-revenue customer segments  
+- Optimize room allocation based on demand patterns  
 
-📊 Key Insights
+---
 
-City Hotels had higher bookings but more cancellations
+## 📈 Project Outcome
+This project demonstrates how analytical insights can:
+- Improve occupancy rates  
+- Reduce cancellations  
+- Optimize pricing  
+- Increase overall revenue  
 
-Longer lead times increased cancellation probability
-
-Resort Hotels generated higher ADR in peak seasons
-
-Seasonality strongly impacted occupancy and pricing
-
-💡 Business Recommendations
-
-Implement dynamic pricing
-
-Reduce cancellations through better deposit policies
-
-Focus on high-revenue customer segments
-
-Optimize room allocation based on demand trends
-
-🚀 Outcome
-
-This project demonstrates how data analytics can improve occupancy, reduce cancellations, and increase hotel revenue through data-driven strategies.
+🔥 **Data-driven decisions are key to staying competitive in the hospitality industry.**
